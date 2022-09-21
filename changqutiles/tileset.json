@@ -1,0 +1,56 @@
+{
+    "asset": {
+        "generatetool": "cesiumlab2@www.cesiumlab.com/model2tiles",
+        "version": "1.0"
+    },
+    "extras": {
+        "scenetree": "scenetree.json"
+    },
+    "geometricError": 369.781813214999,
+    "properties": null,
+    "refine": "REPLACE",
+    "root": {
+        "boundingVolume": {
+            "box": [
+                4.65661287307739e-10,
+                0.00109274196438491,
+                40.7962448326871,
+                127.607208827976,
+                0,
+                0,
+                0,
+                184.890906607499,
+                0,
+                0,
+                0,
+                39.8002062784508
+            ]
+        },
+        "children": [
+            {
+                "boundingVolume": {
+                    "box": [
+                        2.3283064365387e-10,
+                        0.00109261620497136,
+                        40.7990906027109,
+                        127.59944152832,
+                        0,
+                        0,
+                        0,
+                        184.888595581055,
+                        0,
+                        0,
+                        0,
+                        39.7991356699238
+                    ]
+                },
+                "content": {
+                    "uri": "NoLod_0.b3dm"
+                },
+                "geometricError": 0.0,
+                "refine": "REPLACE"
+            }
+        ],
+        "geometricError": 369.781813214999
+    }
+}
